@@ -1,5 +1,5 @@
 {
-  "name": "express-typescript-typeorm-boilerplate",
+  "name": "spending-tracker-app",
   "version": "1.0.0",
   "description": "RESTful API boilerplate with Typescript, TypeORM, ExpressJs & Mocha.",
   "scripts": {
